@@ -1,0 +1,15 @@
+{
+  "name": "SimpleServer",
+  "version": "0.0.0",
+  "description": "SimpleServer",
+  "main": "app.js",
+  "author": {
+    "name": "Tom",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
